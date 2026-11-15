@@ -1,0 +1,39 @@
+{
+  "original": {},
+  "brightness_mild": {
+    "alpha": 1.1,
+    "beta": 10
+  },
+  "brightness_strong": {
+    "alpha": 1.4,
+    "beta": 25
+  },
+  "contrast_low": {
+    "alpha": 0.85,
+    "beta": 0
+  },
+  "contrast_high": {
+    "alpha": 1.25,
+    "beta": 0
+  },
+  "noise_mild": {
+    "sigma": 8
+  },
+  "noise_strong": {
+    "sigma": 25
+  },
+  "blur_mild": {
+    "kernel": 3
+  },
+  "blur_strong": {
+    "kernel": 7
+  },
+  "gamma_low": {
+    "gamma": 0.75
+  },
+  "gamma_high": {
+    "gamma": 1.4
+  },
+  "flip_horizontal": {},
+  "rotate90": {}
+}

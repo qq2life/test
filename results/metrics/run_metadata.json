@@ -1,0 +1,40 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "python": "3.13.18",
+  "torch": "2.14.1+cpu",
+  "torchvision": "0.29.1+cpu",
+  "gpu": null,
+  "model_yolo": "yolo26n.pt",
+  "model_faster": "FasterRCNN_ResNet50_FPN_V2_Weights.DEFAULT",
+  "model_sam": "facebook/sam2.1-hiera-tiny",
+  "max_side": 1536,
+  "grabcut_max_side": 768,
+  "yolo_imgsz": 960,
+  "conf_threshold": 0.1,
+  "max_det": 100,
+  "n_per_group": 3,
+  "augmentation_variants": [
+    "brightness_mild",
+    "noise_mild",
+    "blur_mild",
+    "flip_horizontal"
+  ],
+  "selected_detector_for_seg": "yolo",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.0",
+    "opencv-python-headless": "4.14.0.94",
+    "ultralytics": "8.4.214",
+    "sam2": "1.1.0",
+    "gdown": "6.5.1",
+    "scipy": "1.16.3",
+    "Pillow": "11.3.0",
+    "huggingface-hub": "1.33.0",
+    "scikit-image": "0.25.2"
+  },
+  "source_url": "https://drive.google.com/drive/folders/1LT2NdDSULHiW3FwzT63ewgVO3pwRRhOW",
+  "work_coordinate_system": "resized image px",
+  "original_coordinate_system": "input image px"
+}

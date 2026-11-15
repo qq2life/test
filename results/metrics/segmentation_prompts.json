@@ -1,0 +1,156 @@
+[
+  {
+    "image_id": "AAKM880_11_d9fa66e4",
+    "filename": "AAKM880(11).jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.38465455174446106,
+    "box": [
+      46.785545349121094,
+      29.639842987060547,
+      1231.6534423828125,
+      1126.797119140625
+    ]
+  },
+  {
+    "image_id": "20250213140249905_342a772d",
+    "filename": "20250213140249905.jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.47803717851638794,
+    "box": [
+      6.369140625,
+      0.0,
+      1330.1923828125,
+      972.8388671875
+    ]
+  },
+  {
+    "image_id": "20250213140249905_342a772d",
+    "filename": "20250213140249905.jpg",
+    "box_id": 1,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.4200565218925476,
+    "box": [
+      849.7529296875,
+      0.734619140625,
+      1117.1312255859375,
+      197.37338256835938
+    ]
+  },
+  {
+    "image_id": "20250213140249905_342a772d",
+    "filename": "20250213140249905.jpg",
+    "box_id": 2,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.28054073452949524,
+    "box": [
+      875.5300903320312,
+      873.3502197265625,
+      1096.1107177734375,
+      1147.809326171875
+    ]
+  },
+  {
+    "image_id": "20250213140249905_342a772d",
+    "filename": "20250213140249905.jpg",
+    "box_id": 3,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.24957473576068878,
+    "box": [
+      477.9781188964844,
+      398.1476135253906,
+      727.0296630859375,
+      640.1307983398438
+    ]
+  },
+  {
+    "image_id": "20250213140249905_342a772d",
+    "filename": "20250213140249905.jpg",
+    "box_id": 4,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.20543673634529114,
+    "box": [
+      662.7116088867188,
+      208.1396942138672,
+      901.9684448242188,
+      446.5625915527344
+    ]
+  },
+  {
+    "image_id": "AAKM801_1_14e2908c",
+    "filename": "AAKM801(1).jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.11503206938505173,
+    "box": [
+      92.04150390625,
+      2.285755157470703,
+      1211.303466796875,
+      923.2808837890625
+    ]
+  },
+  {
+    "image_id": "AAKM828_9_ba242684",
+    "filename": "AAKM828(9).jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.16319060325622559,
+    "box": [
+      252.32958984375,
+      51.436275482177734,
+      1355.40966796875,
+      1012.5687866210938
+    ]
+  },
+  {
+    "image_id": "Bosmina_cf_longirostris_Sackhalin_24_46ebd37c",
+    "filename": "Bosmina cf longirostris Sackhalin (24).jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.17833738029003143,
+    "box": [
+      479.4630432128906,
+      77.50489044189453,
+      1443.4486083984375,
+      1145.9913330078125
+    ]
+  },
+  {
+    "image_id": "Bosmina_cf_longirostris_Sackhalin_24_46ebd37c",
+    "filename": "Bosmina cf longirostris Sackhalin (24).jpg",
+    "box_id": 1,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.11681811511516571,
+    "box": [
+      0.0,
+      0.0,
+      1181.388671875,
+      1052.75830078125
+    ]
+  },
+  {
+    "image_id": "Bosmina_cf_longirostris_Sackhalin_50_6d40a032",
+    "filename": "Bosmina cf longirostris Sackhalin (50).jpg",
+    "box_id": 0,
+    "source": "detector",
+    "detector": "yolo",
+    "score": 0.40547335147857666,
+    "box": [
+      281.83917236328125,
+      0.0,
+      1275.8878173828125,
+      1120.5677490234375
+    ]
+  }
+]

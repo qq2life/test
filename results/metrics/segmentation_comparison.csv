@@ -1,0 +1,3 @@
+method,n_masks,success_rate,mean_seconds_per_mask_amortized,median_seconds_per_mask_amortized,mean_mask_area_fraction
+GrabCut,11,1.0,4.604633542999926,3.4752912139997534,0.18136493111130547
+SAM2,11,1.0,3.851674268636378,3.556914605499969,0.22988864180591015

@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "n_per_group": 3,
+  "files": [
+    "AAKM801(1).jpg",
+    "AAKM828(9).jpg",
+    "AAKM880(11).jpg",
+    "Bosmina cf longirostris Sackhalin (24).jpg",
+    "Bosmina cf longirostris Sackhalin (50).jpg",
+    "Bosmina cf longirostris Sackhalin (53).jpg",
+    "0005.jpg",
+    "B afffinis.JPG",
+    "bosm long3.jpg",
+    "20250213131717749.jpg",
+    "20250213135744652.jpg",
+    "20250213140249905.jpg"
+  ],
+  "derived_exclusion_regex": "_obj_\\d+_class_\\d+_conf_",
+  "dataset_url": "https://drive.google.com/drive/folders/1LT2NdDSULHiW3FwzT63ewgVO3pwRRhOW"
+}

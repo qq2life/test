@@ -1,0 +1,14 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pt
+*.pth
+*.ckpt
+*.log
+# Pictures and outputs based on original microscopy photos are withheld without permission.
+results/analysis/
+results/augmentations/
+results/detection/
+results/segmentation/

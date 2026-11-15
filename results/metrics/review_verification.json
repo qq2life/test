@@ -1,0 +1,21 @@
+{
+  "run_verified_from_user_results": true,
+  "archive_files": 194,
+  "plots": 179,
+  "image_profiles": 86,
+  "images_for_detectors": 12,
+  "inferences": 120,
+  "detections": 713,
+  "segmentation_prompt_count": 11,
+  "sam2_masks": 11,
+  "grabcut_masks": 11,
+  "all_prompts_detector_generated": true,
+  "measured_device": "cpu",
+  "no_ground_truth": true,
+  "visual_examples": [
+    "20250213140249905_342a772d_2",
+    "20250213140249905_342a772d_0",
+    "Bosmina_cf_longirostris_Sackhalin_24_46ebd37c_1"
+  ],
+  "validation_note": "Counts cross-checked between detections and image-level metrics. All mask pairs have comparison visualizations. No ground-truth scoring."
+}
